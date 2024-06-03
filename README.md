@@ -40,8 +40,8 @@ Follow these steps to set up the Amazon Product Scraper:
 
 After setting up the project, you can run the application locally:
 
-1. Start the backend server:
-   npm start
+1. Start the backend server: 
+   'npm start'
    This will start the backend server at http://localhost:3000.
 
 2. Open `frontend/index.html` in your browser to use the frontend interface.
