@@ -28,7 +28,7 @@ Welcome to the Amazon Product Scraper! This application allows you to scrape pro
 Follow these steps to set up the Amazon Product Scraper:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/amazon-product-scraper.git
+   git clone https://github.com/sajeewa0825/amazon-product-scraper.git
 
 2. Navigate to the project directory:
    cd amazon-product-scraper/backend
